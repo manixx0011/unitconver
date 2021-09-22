@@ -27,7 +27,7 @@
 
 .converter-wrapper span select {
   background-color: #021433;
-  color: blanchedalmond;
+  color: white;
   font-size: inherit;
   padding: 10px;
   width: 100%;
@@ -54,7 +54,7 @@
   right: 1.5em;
   top: 50%;
   margin-top: -.5em;
-  color: blanchedalmond;
+  color: white;
 }
 
 .converter-wrapper span::before { /*  Custom dropdown arrow cover */
